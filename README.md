@@ -39,15 +39,15 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 
 *Click the thumbnail below to watch the gameplay video on YouTube.*
 
-[![Shop & Inventory System Demo](https://github.com/salara-mirza/Test/blob/main/Shp%26invenBGI2.png)](<img src="https://www.youtube.com/watch?v=4PXhIu0BPcE"width="50%">)
+<a href="https://www.youtube.com/watch?v=4PXhIu0BPcE">
+  <img src="https://raw.githubusercontent.com/salara-mirza/Test/main/Shp%26invenBGI2.png" alt="Shop & Inventory System Demo" width="600">
+</a>
 
 ---
 
 ## UML Architecture Diagram
 
-*To display your diagram, place the image file at `./AboutProject/UML_Diagram.png` or update the path below.*
-
-![UML Diagram](<img_src="https://github.com/salara-mirza/Test/blob/main/Shop_InventoryUML.png"width"50%">)
+<img src="https://raw.githubusercontent.com/salara-mirza/Test/main/Shop_InventoryUML.png" alt="UML Diagram" width="800">
 
 ---
 
@@ -57,6 +57,3 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 2.  **Open the project** in the Unity Hub.
 3.  **Launch the project** in the Unity Editor.
 4.  Open the main scene located in the `Assets/Scenes` folder and press **Play**.
-
-### Repository Structure
-
