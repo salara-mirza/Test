@@ -3,24 +3,7 @@
 A robust shop and inventory system built in Unity. This project demonstrates a clean architecture using centralized dependency management, a modular UI, and event-driven logic to create an extensible and maintainable framework for in-game economies.
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-in--progress-yellow.svg)]()
 [![Made with Unity](https://img.shields.io/badge/engine-Unity-black.svg?logo=unity)]()
-
----
-
-## Gameplay Demo
-
-*Click the thumbnail below to watch the gameplay video on YouTube.*
-
-[![Shop & Inventory System Demo](https://github.com/salara-mirza/Test/blob/main/Shp%26invenBGI2.png)](https://www.youtube.com/watch?v=4PXhIu0BPcE)
-
----
-
-## UML Architecture Diagram
-
-*To display your diagram, place the image file at `./AboutProject/UML_Diagram.png` or update the path below.*
-
-![UML Diagram](https://github.com/salara-mirza/Test/blob/main/Shop_InventoryUML.png)
 
 ---
 
@@ -49,6 +32,22 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 *   **Encapsulation:** Internal state is protected; public methods are used for interaction.
 *   **Loose Coupling:** Dependency injection and event-driven updates reduce direct dependencies between classes.
 *   **Extensibility:** The system is designed to easily add new item types, UI features, or managers.
+
+---
+
+## Gameplay Demo
+
+*Click the thumbnail below to watch the gameplay video on YouTube.*
+
+[![Shop & Inventory System Demo](https://github.com/salara-mirza/Test/blob/main/Shp%26invenBGI2.png)](https://www.youtube.com/watch?v=4PXhIu0BPcE)
+
+---
+
+## UML Architecture Diagram
+
+*To display your diagram, place the image file at `./AboutProject/UML_Diagram.png` or update the path below.*
+
+![UML Diagram](https://github.com/salara-mirza/Test/blob/main/Shop_InventoryUML.png)
 
 ---
 
