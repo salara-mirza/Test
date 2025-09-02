@@ -47,7 +47,7 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 
 *To display your diagram, place the image file at `./AboutProject/UML_Diagram.png` or update the path below.*
 
-![UML Diagram](https://github.com/salara-mirza/Test/blob/main/Shop_InventoryUML.png)
+![UML Diagram](<img_src="https://github.com/salara-mirza/Test/blob/main/Shop_InventoryUML.png"width"50%">)
 
 ---
 
