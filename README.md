@@ -39,7 +39,7 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 
 *Click the thumbnail below to watch the gameplay video on YouTube.*
 
-[![Shop & Inventory System Demo](https://github.com/salara-mirza/Test/blob/main/Shp%26invenBGI2.png)](https://www.youtube.com/watch?v=4PXhIu0BPcE)
+[![Shop & Inventory System Demo](https://github.com/salara-mirza/Test/blob/main/Shp%26invenBGI2.png)](<img src="https://www.youtube.com/watch?v=4PXhIu0BPcE"width="50%">)
 
 ---
 
