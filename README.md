@@ -12,8 +12,7 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 
 *To make this work, choose **one** of the options below and delete the other. Replace the placeholders with your file paths or YouTube video ID.*
 
-**YouTube Video**
-[![Watch the Gameplay Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=4PXhIu0BPcE&t=58s)
+[![Watch the Gameplay Video](https://img.youtube.com/vi/4PXhIu0BPcE&t=58s/0.jpg)](https://www.youtube.com/watch?v=4PXhIu0BPcE&t=58s)
 
 ---
 
