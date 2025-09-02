@@ -21,7 +21,7 @@ A robust shop and inventory system built in Unity. This project demonstrates a c
 
 *To make this work, place your UML diagram image inside the `AboutProject` folder and name it `UML_Diagram.png`, or update the path below.*
 
-![UML Diagram](./AboutProject/UML_Diagram.png)
+![UML Diagram](https://github.com/salara-mirza/Test/blob/main/Shop_InventoryUML.png)
 
 ---
 
